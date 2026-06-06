@@ -1,0 +1,11 @@
+# Core bot framework (aiogram 3.x)
+aiogram==3.13.1
+
+# Async ORM + Turso/SQLite drivers
+SQLAlchemy==2.0.35
+sqlalchemy-libsql==0.2.0
+aiolibsql==0.2.8
+aiosqlite==0.20.0
+
+# Environment variable loading
+python-dotenv==1.0.1
